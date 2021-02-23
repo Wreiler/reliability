@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc57e850-392e-422a-b77a-02175ef4a3db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1gJf7MQneUBfCKM3BxIasoBDwMN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../venv" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pychprojects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pychprojects" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\HOBBIES\PROGRAMMER\venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.films">
+    <configuration name="Group_Win1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../venv/Group_Win1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Group_Win2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../venv/Group_Win2.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InterDipl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../venv/InterDipl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Speedtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../venv/Speedtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="films" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pychprojects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../venv/films.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.films" />
+        <item itemvalue="Python.Speedtest" />
+        <item itemvalue="Python.InterDipl" />
+        <item itemvalue="Python.Group_Win1" />
+        <item itemvalue="Python.Group_Win2.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc57e850-392e-422a-b77a-02175ef4a3db" name="Default Changelist" comment="" />
+      <created>1597837447857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597837447857</updated>
+      <workItem from="1597837461790" duration="297000" />
+      <workItem from="1597837997144" duration="357000" />
+      <workItem from="1597853545460" duration="128000" />
+      <workItem from="1598514836288" duration="2838000" />
+      <workItem from="1598519829028" duration="284000" />
+      <workItem from="1598612008611" duration="3087000" />
+      <workItem from="1598799749351" duration="2551000" />
+      <workItem from="1598864981162" duration="3608000" />
+      <workItem from="1599379712986" duration="4537000" />
+      <workItem from="1599385635205" duration="1568000" />
+      <workItem from="1599387217932" duration="2385000" />
+      <workItem from="1599466517817" duration="6621000" />
+      <workItem from="1600356156239" duration="444000" />
+      <workItem from="1600356614953" duration="749000" />
+      <workItem from="1600357382940" duration="63000" />
+      <workItem from="1600357457654" duration="66000" />
+      <workItem from="1600358199428" duration="340000" />
+      <workItem from="1600358559186" duration="96000" />
+      <workItem from="1600359431144" duration="698000" />
+      <workItem from="1600360357060" duration="69000" />
+      <workItem from="1600360478803" duration="524000" />
+      <workItem from="1600443011845" duration="1209000" />
+      <workItem from="1600444872540" duration="599000" />
+      <workItem from="1600445511926" duration="170000" />
+      <workItem from="1602334530905" duration="165000" />
+      <workItem from="1602675666167" duration="3813000" />
+      <workItem from="1602935572761" duration="876000" />
+      <workItem from="1603644658123" duration="6000" />
+      <workItem from="1603709671011" duration="3092000" />
+      <workItem from="1604236585491" duration="93000" />
+      <workItem from="1604236717366" duration="1070000" />
+      <workItem from="1604773095597" duration="2261000" />
+      <workItem from="1605268141247" duration="1355000" />
+      <workItem from="1606061296204" duration="1385000" />
+      <workItem from="1606117242877" duration="4046000" />
+      <workItem from="1606125822242" duration="3938000" />
+      <workItem from="1606643991722" duration="65000" />
+      <workItem from="1606722256624" duration="14955000" />
+      <workItem from="1606923927253" duration="1859000" />
+      <workItem from="1606991136558" duration="6118000" />
+      <workItem from="1607098365352" duration="2982000" />
+      <workItem from="1607151748766" duration="15887000" />
+      <workItem from="1607168802998" duration="1895000" />
+      <workItem from="1607170873317" duration="180000" />
+      <workItem from="1607410965991" duration="5098000" />
+      <workItem from="1607424497709" duration="7282000" />
+      <workItem from="1607432000959" duration="97000" />
+      <workItem from="1607439368845" duration="9140000" />
+      <workItem from="1607449065840" duration="75000" />
+      <workItem from="1607454537987" duration="401000" />
+      <workItem from="1607500373942" duration="9546000" />
+      <workItem from="1607510609163" duration="2286000" />
+      <workItem from="1607514008442" duration="693000" />
+      <workItem from="1607514782814" duration="2183000" />
+      <workItem from="1607517905088" duration="1134000" />
+      <workItem from="1607522328626" duration="826000" />
+      <workItem from="1607523217145" duration="2229000" />
+      <workItem from="1607528052664" duration="919000" />
+      <workItem from="1607530084563" duration="928000" />
+      <workItem from="1607537373274" duration="4628000" />
+      <workItem from="1607551414755" duration="95000" />
+      <workItem from="1607583410320" duration="7349000" />
+      <workItem from="1607609067911" duration="210000" />
+      <workItem from="1607953385542" duration="1514000" />
+      <workItem from="1608654242740" duration="924000" />
+      <workItem from="1608741972613" duration="1874000" />
+      <workItem from="1608817009871" duration="9737000" />
+      <workItem from="1608837633402" duration="422000" />
+      <workItem from="1608873994844" duration="1275000" />
+      <workItem from="1608882125303" duration="807000" />
+      <workItem from="1608883408796" duration="239000" />
+      <workItem from="1608883914589" duration="250000" />
+      <workItem from="1608885268674" duration="1257000" />
+      <workItem from="1609310443262" duration="197000" />
+      <workItem from="1610290030287" duration="1042000" />
+      <workItem from="1610612619406" duration="2470000" />
+      <workItem from="1611502704627" duration="1608000" />
+      <workItem from="1611504475642" duration="2819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1606995082191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606995082191" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom" timestamp="1611507296462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610615337029" />
+    <state width="1877" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611507296462" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center" timestamp="1611507296462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610615337029" />
+    <state width="1877" height="296" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611507296462" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left" timestamp="1611507296462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610615337029" />
+    <state width="1877" height="296" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611507296462" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right" timestamp="1611507296462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="296" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610615337029" />
+    <state width="1877" height="296" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611507296462" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1607510097452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607510097452" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1607510097452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607510097452" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1607510097452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607510097452" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1607510097452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607510097452" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1607954432715">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607954432715" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../venv/prob.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pychprojects$botVK.coverage" NAME="botVK Coverage Results" MODIFIED="1600356255587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$probnik.coverage" NAME="probnik Coverage Results" MODIFIED="1602687068163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pychprojects$Turtle.coverage" NAME="Turtle Coverage Results" MODIFIED="1607171036181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Maximum_69_Number.coverage" NAME="Maximum 69 Number Coverage Results" MODIFIED="1598517583508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$nwe.coverage" NAME="nwe Coverage Results" MODIFIED="1599389261729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Word_Frequency_Diagram.coverage" NAME="Word Frequency Diagram Coverage Results" MODIFIED="1603710645027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$films.coverage" NAME="films Coverage Results" MODIFIED="1611507217238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$JustTry.coverage" NAME="JustTry Coverage Results" MODIFIED="1600443164532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$DiplomA.coverage" NAME="DiplomA Coverage Results" MODIFIED="1606130019566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Group_Win1.coverage" NAME="Group_Win1 Coverage Results" MODIFIED="1609310618746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Group_Win2_2.coverage" NAME="Group_Win2.2 Coverage Results" MODIFIED="1609310612962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$working.coverage" NAME="working Coverage Results" MODIFIED="1600360415102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Simplest_Calculator.coverage" NAME="Simplest Calculator Coverage Results" MODIFIED="1603717003635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$prob.coverage" NAME="prob Coverage Results" MODIFIED="1607954650186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Speedtest.coverage" NAME="Speedtest Coverage Results" MODIFIED="1611504806597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$app.coverage" NAME="app Coverage Results" MODIFIED="1600445587351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv/forflasks" />
+    <SUITE FILE_PATH="coverage/pychprojects$forexe.coverage" NAME="forexe Coverage Results" MODIFIED="1607523224234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Lab_1.coverage" NAME="Lab 1 Coverage Results" MODIFIED="1599379915236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$Hash_Table.coverage" NAME="Hash-Table Coverage Results" MODIFIED="1603717033230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+    <SUITE FILE_PATH="coverage/pychprojects$InterDipl.coverage" NAME="InterDipl Coverage Results" MODIFIED="1610615331788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../venv" />
+  </component>
+</project>
