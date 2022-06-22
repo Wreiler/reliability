@@ -4,6 +4,7 @@ Calculation of reliability factors and construction of scheme of an artillery sy
 For BSTU graduation project
 
 
+
 Example of work:
 
 ![image](https://github.com/Wreiler/reliability/blob/master/ScreenRecorderProject1_1.gif)
