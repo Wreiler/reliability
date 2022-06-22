@@ -5,4 +5,5 @@ For BSTU graduation project
 
 
 Example of work:
-![Uploading ScreenRecorderProject1_1.gif…]()
+
+![image](https://github.com/Wreiler/reliability/blob/master/ScreenRecorderProject1_1.gif)
