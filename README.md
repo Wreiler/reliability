@@ -9,4 +9,4 @@ Calculation of reliability factors and construction of scheme of an artillery sy
 
 Example of work:
 
-![image](https://github.com/Wreiler/reliability/blob/master/ScreenRecorderProject1_1.gif)
+![image](https://github.com/Wreiler/reliability/blob/master/rel_work.gif)
